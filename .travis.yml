@@ -9,4 +9,4 @@ deploy:
   on: master
   user: openshiftlogin
   password: openshiftpassword
-  domain: rhcloud.com
+  domain: restapi-256px.rhcloud.com
