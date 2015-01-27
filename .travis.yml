@@ -5,8 +5,10 @@ node_js:
 install:
   - npm install
 deploy:
- provider: openshift
- user: $OPENSHIFT_USERNAME
- password: $OPENSHIFT_PASSWORD
- app: $OPENSHIFT_APP_NAME
- domain: $OPENSHIFT_APP_NAMESPACE
+  provider: openshift
+  user: $OPENSHIFT_USERNAME
+  password: $OPENSHIFT_PASSWORD
+  app: restapi
+  domain: 256px
+  on:
+    repo: 256px/256px-backscrub
