@@ -9,4 +9,5 @@ deploy:
   on: "master"
   user: openshiftlogin
   password: openshiftpassword
-  domain: "restapi-256px.rhcloud.com"
+  app: "restapi"
+  domain: "256px"
