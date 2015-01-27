@@ -1,2 +1,2 @@
-[![https://codeship.com/projects/b64baeb0-882b-0132-fca6-42354043e837/status?branch=master](https://codeship.com/projects/b64baeb0-882b-0132-fca6-42354043e837/status?branch=master)](https://codeship.com/projects/59344/)
+[![https://travis-ci.org/256px/256px-backscrub.svg](https://travis-ci.org/256px/256px-backscrub.svg)](https://travis-ci.org/256px/256px-backscrub)
 # 256px-backscrub
