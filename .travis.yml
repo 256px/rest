@@ -1,0 +1,10 @@
+language: node_js
+node_js:
+  - "0.11"
+  - "0.10"
+deploy:
+  provider: openshift
+  on: master
+  user: openshiftlogin
+  password: openshiftpassword
+  domain: rhcloud.com
