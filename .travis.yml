@@ -1,9 +1,6 @@
-language: node_js
-node_js:
-  - "0.11"
-  - "0.10"
+language: python
 install:
-  - npm install
+  - pip install -r requirements.txt
 deploy:
   provider: openshift
   user: $OPENSHIFT_USERNAME
