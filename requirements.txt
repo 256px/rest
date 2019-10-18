@@ -6,7 +6,7 @@ PAM==0.4.2
 Pillow==2.6.1
 Twisted-Core==14.0.2
 Twisted-Web==14.0.2
-Werkzeug==0.10.1
+Werkzeug==0.15.3
 aniso8601==0.92
 apt-xapian-index==0.46
 argparse==1.2.1
